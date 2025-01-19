@@ -62,6 +62,16 @@ The dataset used in this project contains the following columns:
 - Used a confusion matrix to assess performance on the test set.
 - Calculated metrics such as accuracy, sensitivity, and specificity.
 
+## Visualization:
+1. Air Pollution vs Obesity
+2. Air Pollution vs Cancer Severity
+3. Distribution of Health Risk Levels
+4. Fatigue Distribution by Cancer Severity
+5. Feature Importance Plot
+6. Gender Distribution across Risk Levels
+7. Genetic Risk vs Cancer Severity
+8. Heatmap
+9. Smoking vs Cancer Severity
 ## Results:
 
 - Model Performance:
