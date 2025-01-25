@@ -1,4 +1,5 @@
 # Cancer-Level-Prediction 
+![](https://www.datascienceportfol.io/static/profile_pics/pr27_4E3F866692527DD342B6.jpg)
 This project involves predicting the severity level of health conditions based on various factors such as age, lifestyle, and medical symptoms using a Random Forest classification model. The model aims to classify individuals into three categories: Low, Medium, or High severity based on the given features.
 
 ## Project Overview: 
